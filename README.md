@@ -120,11 +120,11 @@ The implementation was tested in Cisco Packet Tracer for:
 
 **Cisco Packet Tracer Project**
 
-`Packet-Tracer/JFSL_Enterprise_Network.pkt`
+`Financial_Institution.pkt`
 
 **Network Topology**
 
-`Topology/JFSL_Network_Topology.png`
+`Topology.png`
 
 ## Skills Demonstrated
 
