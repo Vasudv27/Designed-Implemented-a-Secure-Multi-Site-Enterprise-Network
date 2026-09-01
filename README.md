@@ -1,8 +1,8 @@
-# JFSL Secure Multi-Site Enterprise Network
+# Secure Multi-Site Enterprise Network
 
 ## Project Overview
 
-Designed and implemented a secure, redundant, and scalable enterprise network for Jubilee Financial Services Ltd (JFSL) using Cisco Packet Tracer.
+Designed and implemented a secure, redundant, and scalable enterprise network using Cisco Packet Tracer.
 
 The network connects the HQ across two floors with a separate external Server-Side location hosting DHCP, DNS, Web, and Email services.
 
@@ -10,7 +10,7 @@ The implementation focuses on network segmentation, routing, WAN redundancy, sec
 
 ## Network Topology
 
-![JFSL Enterprise Network Topology](Topology/JFSL_Network_Topology.png)
+![Enterprise Network Topology](Topology.png)
 
 ## Network Architecture
 
