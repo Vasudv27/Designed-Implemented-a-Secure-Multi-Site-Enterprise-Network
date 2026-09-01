@@ -1,4 +1,4 @@
-# Secure Multi-Site Enterprise Network
+# Secure Multi-Site Enterprise Network site-to-site IPsec VPN 
 
 ## Project Overview
 
