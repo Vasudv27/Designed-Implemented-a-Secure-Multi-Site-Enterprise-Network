@@ -116,15 +116,7 @@ The implementation was tested in Cisco Packet Tracer for:
 - Port Security
 - IPsec VPN communication
 
-## Project Files
 
-**Cisco Packet Tracer Project**
-
-`Financial_Institution.pkt`
-
-**Network Topology**
-
-`Topology.png`
 
 ## Skills Demonstrated
 
